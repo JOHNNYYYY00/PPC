@@ -1,2 +1,1 @@
-# PPC
-Proffesional Practice in Computing Git repository.
+"#My Project" 
